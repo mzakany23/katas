@@ -19,10 +19,6 @@ def prime n
 		end
 
 	end
-	puts arr
+        arr
 end
-
-prime(1000)
-
-#
 

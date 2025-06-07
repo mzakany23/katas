@@ -1,4 +1,3 @@
-
 def fizzbuzz
 	array = []
 
@@ -17,4 +16,3 @@ def fizzbuzz
 	end
 end
 
-fizzbuzz

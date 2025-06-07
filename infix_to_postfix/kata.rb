@@ -62,8 +62,3 @@ def to_postfix(numbers)
 #method end
 end
 
-# p to_postfix('2*3-4/5') 							# "23*45/-"
-# p to_postfix("2+7*5")   						  # "275*+"
-# p to_postfix("1+2*3-4")   	          # "123*+4-"
-p to_postfix('3*3/(7+1)') 	          # "33*71+/"
-# p to_postfix('5+(6-2)*9+3^(7-1)')     # "562-9*+371-^+"
