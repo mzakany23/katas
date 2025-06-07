@@ -48,7 +48,3 @@ def chop(int, array)
 
 end
 
-numbers = [2,3,2,1,34,56,43,21,2446,78,987,1,2,4,5,6,8,9,4,0]
-puts chop(2, numbers)
-
-
